@@ -1,0 +1,14 @@
+{
+  "name": "optimizeCin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "S. Kağan Cin",
+  "license": "ISC",
+  "dependencies": {
+    "tinify": "^1.6.0-beta.2"
+  }
+}
